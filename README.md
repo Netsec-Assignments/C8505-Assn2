@@ -9,3 +9,9 @@ To use the program (requires Python 2.7... probably; we haven't tested other ver
 
 Image sources (images not listed here are our own images and can be used for whatever you want; they're CC0):
 * mountain-landscape.bmp: https://pixabay.com/en/landscape-mountains-abendstimmung-640617
+
+Installation issues:
+    If issue installing pillow because of other versions of Python are installed.
+
+* sudo apt-get install python-pip
+* python -m pip install Pillow
